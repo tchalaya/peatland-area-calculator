@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+segmentation_models_pytorch
+rasterio
+numpy
+Pillow
+matplotlib
+tqdm
+scikit-learn
+albumentations
